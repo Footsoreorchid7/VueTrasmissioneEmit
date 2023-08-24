@@ -20,13 +20,13 @@ export default {
           id: "Emanuele",
           name: "Emanuele",
           phone: "11111111",
-          mail: "emanuele.fei@poliziadistato.it",
+          mail: "emanuele.fei@gg.it",
         },
         {
           id: "Fulvio",
           name: "Fulvio",
           phone: "22222222",
-          mail: "fulvio.spada@poliziadistato.it",
+          mail: "fulvio.spada@gg.it",
         },
       ],
     };
