@@ -1,0 +1,2 @@
+# VueTrasmissioneEmit
+Created with CodeSandbox
